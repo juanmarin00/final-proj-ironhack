@@ -1,0 +1,12 @@
+.env
+notebooks/.ipynb_checkpoints
+workflow_notebook.ipynb
+.ipynb_checkpoints
+data
+.DS_Store
+workflow notebook.ipynb
+notebooks/length_model.sav
+length_model.sav
+notebooks/predict_price.sav
+notebooks/length_model.sav
+length_model.sav
